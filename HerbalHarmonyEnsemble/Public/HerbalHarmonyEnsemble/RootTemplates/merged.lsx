@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="326" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="b123c7b1-68e9-49f6-9c78-0064a4d812b7" />
+					<attribute id="Name" type="LSString" value="HHE_HempweaveHood" />
+					<attribute id="Icon" type="FixedString" value="Generated_MAG_EndGameCaster_Hood_A_Magic" />
+					<attribute id="Stats" type="FixedString" value="HHE_HempweaveHood" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hde75e246g3a58g47b5ga75dg3f9b653d3e34" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h98163ddbgb9ffg4083g88feg1872c10c5cf2" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="4d2e0931-3a01-4759-834b-8ae36749daab" />
+					<attribute id="VisualTemplate" type="FixedString" value="09772fdd-dd97-b34d-19c3-072c838ba2b2" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="c43332e8-3004-b0f2-1fcf-1c8f2685ff19" />
+					<children>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="7" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="06346da5-2ed5-4af1-b803-4066a505e662" />
+											<attribute id="Conditions" type="LSString" value="Tagged('REALLY_GALE', context.Source) and not Tagged('ORI_GALE_DONEWITHITEMS', context.Source)" />
+											<attribute id="StatsId" type="FixedString" value="ORI_GALE_AVATAR_CONSUMEITEM" />
+											<attribute id="StatusDuration" type="int32" value="0" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="IsHiddenStatus" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="73ba367a-4a8f-4af3-9cc2-06d72142dab4" />
+					<attribute id="Name" type="LSString" value="HHE_CannabisLeafplateArmor" />
+					<attribute id="Icon" type="FixedString" value="Item_UNI_RobeOfSummer" />
+					<attribute id="Stats" type="FixedString" value="HHE_CannabisLeafplateArmor" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h3f72646bg56a5g4516g8bb9g08d2b01c1948" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h64c95c0dgeb90g4a7fg9f5cg838498fceb80" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="168b9099-19f5-44e4-b55c-e64ceb60b71f" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<children>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="7" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="06346da5-2ed5-4af1-b803-4066a505e662" />
+											<attribute id="Conditions" type="LSString" value="Tagged('REALLY_GALE', context.Source) and not Tagged('ORI_GALE_DONEWITHITEMS', context.Source)" />
+											<attribute id="StatsId" type="FixedString" value="ORI_GALE_AVATAR_CONSUMEITEM" />
+											<attribute id="StatusDuration" type="int32" value="0" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="IsHiddenStatus" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="cc79b725-0b56-4c39-97f3-7d7233d450cc" />
+					<attribute id="Name" type="LSString" value="HHE_GanjaGraspGauntlets" />
+					<attribute id="Icon" type="FixedString" value="Generated_MAG_Monk_Fire_Gloves_Magic" />
+					<attribute id="Stats" type="FixedString" value="HHE_GanjaGraspGauntlets" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hd7262818gacb6g4d23g9a2fgda26b4ca82dc" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h89c418b1g3a9eg4331g9dc5g57767212bd01" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="3e088120-9a4f-4e94-9d1e-23fae8616cd4" />
+					<children>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="7" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="06346da5-2ed5-4af1-b803-4066a505e662" />
+											<attribute id="Conditions" type="LSString" value="Tagged('REALLY_GALE', context.Source) and not Tagged('ORI_GALE_DONEWITHITEMS', context.Source)" />
+											<attribute id="StatsId" type="FixedString" value="ORI_GALE_AVATAR_CONSUMEITEM" />
+											<attribute id="StatusDuration" type="int32" value="0" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="IsHiddenStatus" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="00f6339b-ed7c-4211-8527-a625f0b7f9d6" />
+					<attribute id="Name" type="LSString" value="HHE_MysticMarijuanaMoccasins" />
+					<attribute id="Icon" type="FixedString" value="Item_ARM_Shoes_G" />
+					<attribute id="Stats" type="FixedString" value="HHE_MysticMarijuanaMoccasins" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h734c0a4fgb7afg4352g839dgb71fa31fb83c" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h91d3d446gdbfdg4eadg92e5g9cd1be557cac" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="97f37571-35e8-4cc8-8b0d-ff92d20ae0bb" />
+					<attribute id="VisualTemplate" type="FixedString" value="7ae2c844-1269-40b3-9b1c-15b74dbe7483" />
+					<children>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="7" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="06346da5-2ed5-4af1-b803-4066a505e662" />
+											<attribute id="Conditions" type="LSString" value="Tagged('REALLY_GALE', context.Source) and not Tagged('ORI_GALE_DONEWITHITEMS', context.Source)" />
+											<attribute id="StatsId" type="FixedString" value="ORI_GALE_AVATAR_CONSUMEITEM" />
+											<attribute id="StatusDuration" type="int32" value="0" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="IsHiddenStatus" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="be643f40-dd65-4e64-b783-ca3403d8e091" />
+					<attribute id="Name" type="LSString" value="HHE_EmeraldEuphoriaAmulet" />
+					<attribute id="Icon" type="FixedString" value="MAG_TheOptimist_Amulet" />
+					<attribute id="Stats" type="FixedString" value="HHE_EmeraldEuphoriaAmulet" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h779cb181g807cg4fd8gbb6cgf8e589a72697" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="hc448040dgc8fdg4c27gbb36g2dbb04a2f5c4" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="72837a82-6dcd-41bb-a657-2a395744b499" />
+					<children>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="7" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="06346da5-2ed5-4af1-b803-4066a505e662" />
+											<attribute id="Conditions" type="LSString" value="Tagged('REALLY_GALE', context.Source) and not Tagged('ORI_GALE_DONEWITHITEMS', context.Source)" />
+											<attribute id="StatsId" type="FixedString" value="ORI_GALE_AVATAR_CONSUMEITEM" />
+											<attribute id="StatusDuration" type="int32" value="0" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="IsHiddenStatus" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="5805734c-ddbf-493c-a6a3-8d0c0f1f2f15" />
+					<attribute id="Name" type="LSString" value="HHE_BuddingBlissBand" />
+					<attribute id="Icon" type="FixedString" value="Item_Quest_GOB_DrunkGoblin_Ring" />
+					<attribute id="Stats" type="FixedString" value="HHE_BuddingBlissBand" />
+					<attribute id="DisplayName" type="TranslatedString" handle="haf5d3f8cg432eg44d5gabd5g5c6ff97b7266" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h957e594dg3ad6g4dcbgae09g480f3b21646b" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="0af630e0-82eb-4b83-baa2-e296f97a7a4e" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
+					<attribute id="VisualTemplate" type="FixedString" value="52435188-080c-8c4c-bc50-3d0f8d4e84b7" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="4413c076-3862-b3ad-fabf-8f755753c1fa" />
+					<attribute id="RecieveDecal" type="bool" value="False" />
+					<attribute id="ImpactSound" type="FixedString" value="fa6145a3-f95d-60a9-9583-ba601bc3a583" />
+					<attribute id="InventoryMoveSound" type="FixedString" value="8891f42c-f66e-b87a-d0b7-6f2de68489a8" />
+					<attribute id="DropSound" type="FixedString" value="8891f42c-f66e-b87a-d0b7-6f2de68489a8" />
+					<attribute id="PickupSound" type="FixedString" value="0c6e22db-8de7-919a-88c3-79532bca7898" />
+					<children>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="7" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="06346da5-2ed5-4af1-b803-4066a505e662" />
+											<attribute id="Conditions" type="LSString" value="Tagged('REALLY_GALE', context.Source) and not Tagged('ORI_GALE_DONEWITHITEMS', context.Source)" />
+											<attribute id="StatsId" type="FixedString" value="ORI_GALE_AVATAR_CONSUMEITEM" />
+											<attribute id="StatusDuration" type="int32" value="0" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="IsHiddenStatus" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="538ed586-5260-4630-bb7e-4dc27cf3dbaa" />
+					<attribute id="Name" type="LSString" value="HHE_StonersSerenityRing" />
+					<attribute id="Icon" type="FixedString" value="DEN_Thiefling_Ring2" />
+					<attribute id="Stats" type="FixedString" value="HHE_StonersSerenityRing" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h3401f7a3gb963g4f19g8890ga601d3701418" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h9730b2bag7722g483fg9758gae5f05a7249a" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="0af630e0-82eb-4b83-baa2-e296f97a7a4e" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
+					<attribute id="VisualTemplate" type="FixedString" value="52435188-080c-8c4c-bc50-3d0f8d4e84b7" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="4413c076-3862-b3ad-fabf-8f755753c1fa" />
+					<attribute id="RecieveDecal" type="bool" value="False" />
+					<attribute id="ImpactSound" type="FixedString" value="fa6145a3-f95d-60a9-9583-ba601bc3a583" />
+					<attribute id="InventoryMoveSound" type="FixedString" value="8891f42c-f66e-b87a-d0b7-6f2de68489a8" />
+					<attribute id="DropSound" type="FixedString" value="8891f42c-f66e-b87a-d0b7-6f2de68489a8" />
+					<attribute id="PickupSound" type="FixedString" value="0c6e22db-8de7-919a-88c3-79532bca7898" />
+					<children>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="7" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="06346da5-2ed5-4af1-b803-4066a505e662" />
+											<attribute id="Conditions" type="LSString" value="Tagged('REALLY_GALE', context.Source) and not Tagged('ORI_GALE_DONEWITHITEMS', context.Source)" />
+											<attribute id="StatsId" type="FixedString" value="ORI_GALE_AVATAR_CONSUMEITEM" />
+											<attribute id="StatusDuration" type="int32" value="0" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="IsHiddenStatus" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="07ade13f-e500-4fc7-93a4-d85c083763ea" />
+					<attribute id="Name" type="LSString" value="HHE_ChronoweaveCloak" />
+					<attribute id="Icon" type="FixedString" value="MAG_Acid_AcidMeleeCounter_Cloak" />
+					<attribute id="Stats" type="FixedString" value="HHE_ChronoWeaveCloak" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hc3988542g6758g4ed6g81c9gca9e205793da" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h17b5c8b9g23a1g469egaeb8g4e1cd16331a9" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="a1978b4d-3d93-49ec-9a8b-d19171ed35d5" />
+					<attribute id="VisualTemplate" type="FixedString" value="e79c46c6-6306-48ae-d87d-253b0400a14f" />
+					<children>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="7" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="06346da5-2ed5-4af1-b803-4066a505e662" />
+											<attribute id="Conditions" type="LSString" value="Tagged('REALLY_GALE', context.Source) and not Tagged('ORI_GALE_DONEWITHITEMS', context.Source)" />
+											<attribute id="StatsId" type="FixedString" value="ORI_GALE_AVATAR_CONSUMEITEM" />
+											<attribute id="StatusDuration" type="int32" value="0" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="IsHiddenStatus" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

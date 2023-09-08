@@ -1,0 +1,18 @@
+new treasuretable "DEN_Entrance_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_HHE_HempweaveHood",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HHE_CannabisLeafplateArmor",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HHE_GanjaGraspGauntlets",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HHE_MysticMarijuanaMoccasins",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HHE_EmeraldEuphoriaAmulet",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HHE_BuddingBlissBand",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HHE_StonersSerenityRing",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HHE_ChronoweaveCloak",1,0,0,0,0,0,0,0
