@@ -102,7 +102,7 @@
 				<node id="GameObjects">
 					<attribute id="MapKey" type="FixedString" value="00f6339b-ed7c-4211-8527-a625f0b7f9d6" />
 					<attribute id="Name" type="LSString" value="HHE_MysticMarijuanaMoccasins" />
-					<attribute id="Icon" type="FixedString" value="Item_ARM_Shoes_G" />
+					<attribute id="Icon" type="FixedString" value="Item_ARM_Shoes_G_Magic" />
 					<attribute id="Stats" type="FixedString" value="HHE_MysticMarijuanaMoccasins" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h734c0a4fgb7afg4352g839dgb71fa31fb83c" version="1" />
 					<attribute id="Description" type="TranslatedString" handle="h91d3d446gdbfdg4eadg92e5g9cd1be557cac" version="1" />
@@ -133,7 +133,7 @@
 				<node id="GameObjects">
 					<attribute id="MapKey" type="FixedString" value="be643f40-dd65-4e64-b783-ca3403d8e091" />
 					<attribute id="Name" type="LSString" value="HHE_EmeraldEuphoriaAmulet" />
-					<attribute id="Icon" type="FixedString" value="MAG_TheOptimist_Amulet" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_GEN_Amulet_Necklace_D_Bronze_A_1" />
 					<attribute id="Stats" type="FixedString" value="HHE_EmeraldEuphoriaAmulet" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h779cb181g807cg4fd8gbb6cgf8e589a72697" version="1" />
 					<attribute id="Description" type="TranslatedString" handle="hc448040dgc8fdg4c27gbb36g2dbb04a2f5c4" version="1" />
@@ -201,7 +201,7 @@
 				<node id="GameObjects">
 					<attribute id="MapKey" type="FixedString" value="538ed586-5260-4630-bb7e-4dc27cf3dbaa" />
 					<attribute id="Name" type="LSString" value="HHE_StonersSerenityRing" />
-					<attribute id="Icon" type="FixedString" value="DEN_Thiefling_Ring2" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_GEN_Ring_A_Simple_Gold" />
 					<attribute id="Stats" type="FixedString" value="HHE_StonersSerenityRing" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h3401f7a3gb963g4f19g8890ga601d3701418" version="1" />
 					<attribute id="Description" type="TranslatedString" handle="h9730b2bag7722g483fg9758gae5f05a7249a" version="1" />
@@ -239,7 +239,7 @@
 				<node id="GameObjects">
 					<attribute id="MapKey" type="FixedString" value="07ade13f-e500-4fc7-93a4-d85c083763ea" />
 					<attribute id="Name" type="LSString" value="HHE_ChronoweaveCloak" />
-					<attribute id="Icon" type="FixedString" value="MAG_Acid_AcidMeleeCounter_Cloak" />
+					<attribute id="Icon" type="FixedString" value="Generated_MAG_Acid_AcidMeleeCounter_Cloak_Magic" />
 					<attribute id="Stats" type="FixedString" value="HHE_ChronoWeaveCloak" />
 					<attribute id="DisplayName" type="TranslatedString" handle="hc3988542g6758g4ed6g81c9gca9e205793da" version="1" />
 					<attribute id="Description" type="TranslatedString" handle="h17b5c8b9g23a1g469egaeb8g4e1cd16331a9" version="1" />
