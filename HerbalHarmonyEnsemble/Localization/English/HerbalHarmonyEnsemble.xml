@@ -19,20 +19,12 @@
 	<content contentuid="h9730b2bag7722g483fg9758gae5f05a7249a" version="1">An ornate gold ring engraved with marijuana leaf patterns.</content>
 	<content contentuid="h17b5c8b9g23a1g469egaeb8g4e1cd16331a9" version="1">A flowing cloak made of shimmering threads.</content>
 	<content contentuid="" version="1">Effects</content>
-	<content contentuid="" version="1">Nature's Resilience</content>
-	<content contentuid="" version="1">Grants the wearer advantage on saving throws against poison.</content>
-	<content contentuid="" version="1">Leafy Fortitude</content>
-	<content contentuid="" version="1">Grants a +1 bonus to AC and allows the wearer to cast "Calm Emotions"</content>
-	<content contentuid="" version="1">Budding Control</content>
-	<content contentuid="" version="1">Allows the wearer to cast "Entangle"</content>
-	<content contentuid="" version="1">Stealthy Serenity</content>
-	<content contentuid="" version="1">Grants the wearer the ability to cast "Pass without Trace"</content>
-	<content contentuid="" version="1">Psychic Harmony</content>
-	<content contentuid="" version="1">Grants the wearer resistance to psychic damage</content>
-	<content contentuid="" version="1">Purifying Insight</content>
-	<content contentuid="" version="1">Allows the wearer to cast "Resistance"</content>
-	<content contentuid="" version="1">Fearless Tranquility</content>
-	<content contentuid="" version="1">Grants the wearer resistance to psychic damage and allows the wearer to cast "Haste"</content>
-	<content contentuid="" version="1">Temporal Ebb</content>
-	<content contentuid="" version="1">Allows the wearer to cast "Blink"</content>
+	<content contentuid="ha4fa87c5gfd3fg478fg9b08g9f9a77f31820" version="1">Nature's Resilience</content>
+	<content contentuid="h628598ffg5648g48d6ga552gb305b785b582" version="1">Grants the wearer advantage on saving throws against poison.</content>
+	<content contentuid="he6555ec0g476dg442bgb314gf7034aa374bc" version="1">Leafy Fortitude</content>
+	<content contentuid="hbb8e8958g9854g47aeg8f22gd40f0d162061" version="1">Grants a +1 bonus to AC</content>
+	<content contentuid="h5b636529g4382g4d66gb775g16f9de7a0f0e" version="1">Psychic Harmony</content>
+	<content contentuid="h1dfa1554gea12g4334gb65fg5d9bf421f848" version="1">Grants the wearer resistance to psychic damage</content>
+	<content contentuid="h2ce64056gc369g4f28gb61eg49a46899ccbe" version="1">Fearless Tranquility</content>
+	<content contentuid="h56142105g117cg4c19ga0f0g8ec8d70bcabd" version="1">Grants the wearer resistance to psychic damage</content>
 </contentList>
